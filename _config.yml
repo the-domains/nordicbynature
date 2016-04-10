@@ -1,6 +1,6 @@
 name: NordicByNature
 favicon: null
-layout_spectrum: 0.27523454814217985
+layout_spectrum: 0.99978
 typography_spectrum: 0.5364541762974113
 title: Neoprene Lunch bags for the masses
 cta:
@@ -23,7 +23,7 @@ color:
     - '#547AB1'
     - '#CEAFC0'
   brandStrength: 0.3277704908978194
-  lightness: 0.6385535500012338
+  lightness: 0.75
   saturation: 0.14315155264921486
-  rhythmicContrast: 0.03857219195924699
+  rhythmicContrast: 0
 purpose: []
